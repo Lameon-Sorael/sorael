@@ -1,0 +1,7 @@
+.env
+**pycache**/
+__pycache__/
+*.pyc
+data/uploads/
+secrets.toml
+*.key
